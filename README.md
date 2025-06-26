@@ -34,5 +34,5 @@ The goal of this project is to explore how fairness-aware mechanisms and evaluat
 - Evaluation Metrics (Accuracy & Fairness)
 
 ## 📁 Files
-- `TFM_Recommender_Systems_&_Fairness_small.ipynb`: Model development and experimentation.
-- `Train & Evaluation using 5-fold crossvalidation.ipynb`: Statistical evaluation and fairness protocol implementation.
+- `TFM_Recommender_Systems_&_Fairness_Small.ipynb`: Model development and experimentation.
+- `TrainEvaluation5fold.ipynb`: Statistical evaluation and fairness protocol implementation.
